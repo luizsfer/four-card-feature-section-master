@@ -42,7 +42,6 @@ header p {
     align-items: center;
     box-sizing: border-box;
     margin: 0 auto;
-    padding: 0 auto;
 }
 
 .content .col {
@@ -51,6 +50,7 @@ header p {
     flex-direction: column;
     align-items: center;
     box-sizing: border-box;
+    padding: 1rem;
 }
 
 .col .box-card {
