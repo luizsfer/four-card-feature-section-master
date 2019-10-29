@@ -80,3 +80,19 @@ header p {
     right: 2rem;
     bottom: 2rem;
 }
+
+.box-card:first-child {
+    border-top: 4px solid hsl(180, 62%, 55%);
+}
+
+.box-card:nth-child(2) {
+    border-top: 4px solid hsl(0, 78%, 62%);
+}
+
+.box-card:nth-child(3) {
+    border-top: 4px solid hsl(34, 97%, 64%);  
+}
+
+.box-card:last-child {
+    border-top: 4px solid hsl(212, 86%, 64%);
+}
