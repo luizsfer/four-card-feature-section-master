@@ -12,6 +12,7 @@ body {
     margin: 0 auto;
     max-width: 1440px;
     min-width: 375px;
+    width: 90%;
 }
 
 header {
@@ -99,7 +100,7 @@ header p {
 
 @media only screen and (max-width: 600px) {
     .title {
-        font-size: 1.1rem;
+        font-size: 1.4rem;
     }
     .title strong{
         font-weight: 400;
