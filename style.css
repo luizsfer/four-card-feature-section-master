@@ -81,18 +81,18 @@ header p {
     bottom: 2rem;
 }
 
-.content .box-card:first-of-type {
+.first-border {
     border-top: 4px solid hsl(180, 62%, 55%);
 }
 
-.content .box-card:nth-of-type(2) {
+.second-border {
     border-top: 4px solid hsl(0, 78%, 62%);
 }
 
-.content .box-card:nth-of-type(3) {
+.third-border {
     border-top: 4px solid hsl(34, 97%, 64%);  
 }
 
-.content .box-card:last-of-type{
+.fourth-border{
     border-top: 4px solid hsl(212, 86%, 64%);
 }
