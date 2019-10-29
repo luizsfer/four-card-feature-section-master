@@ -1,0 +1,15 @@
+:root {
+    --Very-Dark-Blue: hsl(234, 12%, 34%)
+    --Grayish-Blue: hsl(229, 6%, 66%)
+}
+
+body {
+    background: #FAFAFA;
+    font-size: 15px;
+    font-family: "Poppins", Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    max-width: 1440px;
+    min-width: 375px;
+}
