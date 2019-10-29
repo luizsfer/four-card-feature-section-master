@@ -1,6 +1,6 @@
 :root {
-    --Very-Dark-Blue: hsl(234, 12%, 34%)
-    --Grayish-Blue: hsl(229, 6%, 66%)
+    --Very-Dark-Blue: hsl(234, 12%, 34%);
+    --Grayish-Blue: hsl(229, 6%, 66%);
 }
 
 body {
@@ -12,4 +12,25 @@ body {
     margin: 0 auto;
     max-width: 1440px;
     min-width: 375px;
+}
+
+header {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.title {
+    font-weight: 200;
+    color: var(--Very-Dark-Blue);
+    font-size: 2.2rem;
+    margin: 1rem;
+}
+
+.title strong {
+    font-weight: 600;
+}
+
+header p {
+    color: var(--Grayish-Blue);
+    font-size: 0.91rem;
 }
