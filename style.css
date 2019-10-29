@@ -41,6 +41,8 @@ header p {
     flex-wrap: wrap;
     align-items: center;
     box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0 auto;
 }
 
 .content .col {
@@ -49,8 +51,6 @@ header p {
     flex-direction: column;
     align-items: center;
     box-sizing: border-box;
-    padding: 0;
-    margin: 0;
 }
 
 .col .box-card {
